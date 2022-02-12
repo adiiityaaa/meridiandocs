@@ -18,4 +18,8 @@ These buttons are used to control the Player. Please refer to Request Channel to
 
 ## No Results found for the query.
 
-It usually happens if the Player cannot find any valid songs regarding the input. Please try again if you get this error. If the problem persists, please contact [Developers](https://discord.gg/xe7GTYh9PR).
+It usually happens if the Player cannot find any valid songs regarding the input. Please try again if you get this error.&#x20;
+
+## Meridian is not playing song I requested.
+
+Dear users, we would like to clarify that Meridian plays the first result of the query. If it is not playing what you requested for, please send the link of the song from YouTube.&#x20;

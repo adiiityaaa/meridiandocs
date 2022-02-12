@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# Welcome!
 
-You can use the [editor on GitHub](https://github.com/adiiityaaa/meridian.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Welcome to MyAPI
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Welcome to MyAPI! Here you'll find all the documentation you need to get up and running with the MyAPI API.
 
-### Markdown
+## Want to jump right in?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Feeling like an eager beaver? Jump in to the quick start docs and get making your first request:
 
-```markdown
-Syntax highlighted code block
+{% content-ref url="quick-start.md" %}
+[quick-start.md](quick-start.md)
+{% endcontent-ref %}
 
-# Header 1
-## Header 2
-### Header 3
+## Want to deep dive?
 
-- Bulleted
-- List
+Dive a little deeper and start exploring our API reference to get an idea of everything that's possible with the API:
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/adiiityaaa/meridian.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+{% content-ref url="reference/api-reference/" %}
+[api-reference](reference/api-reference/)
+{% endcontent-ref %}

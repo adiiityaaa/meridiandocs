@@ -1,8 +1,15 @@
-# Welcome!
+---
+description: >-
+  Welcome to Documentation of [Meridian](), where you can learn the functioning
+  of the Bot.
+coverY: 0
+---
 
-## Welcome to MyAPI
+# Home
 
-Welcome to MyAPI! Here you'll find all the documentation you need to get up and running with the MyAPI API.
+## Introduction
+
+Meridian is one of the Finest Music Bots on Discord with over 35+ commands which promises you to deliver absolutely stunning music quality. With request channel, which has best-in-class 15 controls, you can stream songs with absolute ease!
 
 ## Want to jump right in?
 

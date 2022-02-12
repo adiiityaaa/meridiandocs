@@ -27,6 +27,7 @@
   * [Supported Sources](faq/music/supported-sources.md)
 * [Request Channel](faq/request-channel.md)
 * [Permissions](faq/permissions.md)
+* [Commands](faq/commands.md)
 
 ## Links
 

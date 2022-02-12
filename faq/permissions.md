@@ -17,3 +17,7 @@ description: Details regarding what permissions Meridian needs and how are they 
 | Connect                     | Voice    | This permission is needed to join voice channels.                |
 | Speak                       | Voice    | This permission is needed to stream songs in voice channels.     |
 | Priority Speaker            | Voice    | This permission is needed to speak in Stage Channels.            |
+
+{% hint style="info" %}
+**Support Server:** If you face any difficulties or need human assistance to use Meridian, please contact the developers in the [Support Server.](https://discord.gg/xe7GTYh9PR) We will try our best to support you and try to solve your query.
+{% endhint %}

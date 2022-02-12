@@ -3,7 +3,7 @@
 ## Meridian
 
 * [Home](README.md)
-* [Quick Start](meridian/quick-start.md)
+* [Quick Start](quick-start.md)
 
 ## Commands
 
@@ -23,8 +23,8 @@
 ## FAQ
 
 * [Music](faq/music/README.md)
-  * [Page 1](faq/music/page-1.md)
-  * [Page 2](faq/music/page-2.md)
+  * [Player](faq/music/player.md)
+  * [Supported Sources](faq/music/supported-sources.md)
 * [Request Channel](faq/request-channel.md)
 * [Permissions](faq/permissions.md)
 

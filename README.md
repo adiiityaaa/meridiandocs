@@ -17,4 +17,6 @@ The first thing is to invite Meridian in your server. If you haven't already, th
 
 ## Configuration
 
-Dive a little deeper and start exploring our API reference to get an idea of everything that's possible with the API:
+Meridian is an easy to use Bot. All of the commands would be ready to be used once it is invited with appropriate permissions. To setup the Request Channel, just type `/request-channel option:Enable` and then you will be to go. You can also setup DJ Roles incase you want to restrict controls to specific members, or the Voice Logs to monitor the activity of the members.\
+\
+Meridian is a slash-commands-only bot and hence does not have any prefix. Type `/` to use its commands. To view other commands, you can type `/help` or scroll through the Documentation.

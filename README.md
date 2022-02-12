@@ -1,6 +1,6 @@
 ---
 description: >-
-  Welcome to Documentation of [Meridian](https://gooogle.com/), where you can
+  Welcome to Documentation of Meridian, where you can
   learn the functioning of the Bot.
 coverY: 0
 ---

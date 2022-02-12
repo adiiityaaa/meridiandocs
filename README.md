@@ -13,7 +13,7 @@ Meridian is one of the Finest Music Bots on Discord with over 35+ commands which
 
 ## Getting Started
 
-The first thing is to invite Meridian in your server. If you haven't already, then you can invite it by clicking \[here.]\(https://google.com/) Meridian by default only asks for the permissions which it needs. Incase it is not invited with required permissions, it can malfunction and certain features may not work properly. You can read the \[Permissions]\(https://google.com/) to get an overview of why we need these permissions.
+The first thing is to invite Meridian in your server. If you haven't already, then you can invite it by clicking \[here.]\(https://google.com/) Meridian by default only asks for the permissions which it needs. Incase it is not invited with required permissions, it can malfunction and certain features may not work properly. You can read the [Permissions](faq/permissions.md) to get an overview of why we need these permissions.
 
 ## Configuration
 

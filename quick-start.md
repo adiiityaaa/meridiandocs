@@ -10,7 +10,7 @@ description: Quick Start Guide to get along with the usage of Meridian.
 
 ## Inviting Meridian
 
-The first thing is to invite Meridian in your server. If you haven't already, then you can invite it by clicking here or through the Invite tab. Meridian by default only asks for the permissions which it needs. Incase it is not invited with required permissions, it can malfunction and certain features may not work properly. You can read the [Permissions](faq/permissions.md) to get an overview of why we need these permissions.
+The first thing is to invite Meridian in your server. If you haven't already, then you can invite it by [clicking here](https://discord.com/api/oauth2/authorize?client\_id=933686221727731794\&permissions=274881342737\&scope=bot%20applications.commands). Meridian by default only asks for the permissions which it needs. Incase it is not invited with required permissions, it can malfunction and certain features may not work properly. You can read the [Permissions](faq/permissions.md) to get an overview of why we need these permissions.
 
 ## Setting up the Request Channel
 

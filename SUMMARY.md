@@ -30,4 +30,5 @@
 
 ## links
 
+* [Invite Meridian](https://discord.com/api/oauth2/authorize?client\_id=933686221727731794\&permissions=274881342737\&scope=bot%20applications.commands)
 * [Support Server](https://discord.gg/xe7GTYh9PR)

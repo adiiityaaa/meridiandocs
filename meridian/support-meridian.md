@@ -19,4 +19,4 @@ Users can support us via Donations. We aim to cover our Hosting as well as Devel
 
 ## Voting for Meridian
 
-Your vote matters! Please vote for Meridian on Top.gg and Discord Bot List to make Meridian available to various new servers and increase our reach.&#x20;
+Your vote matters! Please vote for Meridian on [Top.gg](https://top.gg/bot/933686221727731794) and [Discord Bot List](https://discordbotlist.com/bots/meridian) to make Meridian available to various new servers and increase our reach.&#x20;

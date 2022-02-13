@@ -4,6 +4,7 @@
 
 * [Home](README.md)
 * [Quick Start](quick-start.md)
+* [Support Meridian](meridian/support-meridian.md)
 
 ## Commands
 

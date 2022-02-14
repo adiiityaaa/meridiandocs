@@ -4,15 +4,15 @@ description: Supported Sources from where the Tracks can be streamed.
 
 # Supported Sources
 
-You can stream Music from the Following Sources:&#x20;
+You can stream Tracks from the Following Sources:
 
 * Apple Music
-* Bandcamp&#x20;
+* Bandcamp
 * Deezer
 * Facebook Music
 * HTTP Audio Links
 * Soundcloud
-* Spotify&#x20;
+* Spotify
 * Twitch
 * Vimeo
 * YouTube

@@ -4,7 +4,8 @@
 
 * [Home](README.md)
 * [Quick Start](quick-start.md)
-* [Support Meridian](meridian/support-meridian.md)
+* [Terms of Service](meridian/terms-of-service.md)
+* [Privacy Policy](meridian/privacy-policy.md)
 
 ## Commands
 
